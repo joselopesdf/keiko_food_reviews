@@ -12,6 +12,13 @@ import 'package:flutter/material.dart' ;
 class _HomeState extends State<Home> {
       @override
       Widget build(BuildContext context) {
-        return const Placeholder();
+        return  Scaffold(
+          appBar: AppBar(
+            title : const Text('Keiko food Reviews')
+
+          ),
+
+
+        );
       }
 }

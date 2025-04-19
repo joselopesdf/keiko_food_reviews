@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
                         leading: Padding(
 
                             padding: const EdgeInsets.only( bottom: 24.0),
-                          child: Image.asset('assets/images/crown.png',width: 48.0,fit: BoxFit.cover,),
+                          child: Image.asset('assets/images/crown.jpg',width: 48.0,fit: BoxFit.cover,),
                         ),
                       
                   )
